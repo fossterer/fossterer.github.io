@@ -2,7 +2,6 @@
 
 Last Modified Date|Path
 -|-
-Tue Aug 18 2020|[documents](documents)
-N/A|[projects](projects)
+Tue Nov 10 2020|[Technical](Technical)
 N/A|[health](health)
 N/A|[gaming](gaming)
