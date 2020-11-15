@@ -17,7 +17,7 @@ So, understand and assert that *Engineering is not just programming*.
 
 ## Time spent writing tests
 
-I get it. Writing tests is unrewarding. Let's say 97%[1] of the tests we write simply pass and only 3% fail. These 3% ifn caught early save us from new efforts in the future to hunt the cause, understand the original intent and fix.
+I get it. Writing tests is unrewarding. Let's say 97%[1] of the tests we write simply pass and only 3% fail. These 3% if caught early save us from new efforts in the future to hunt the cause, understand the original intent and fix.
 
 Humans are fallible. There's a reason these many years of software engineering practice resulted in us writing tests. So we need tests.
 
