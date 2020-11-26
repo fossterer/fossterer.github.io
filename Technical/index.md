@@ -4,6 +4,7 @@ Last Modified Date|Path
 -|-
 Wed Nov 16 2016|[Using Custom SSL certificates with Java Keystore](using-custom-certs-with-java-keystore-in-2016-jdk7.md)
 Sun Feb 03 2019|[My story of quitting Facebook](my-story-of-quitting-facebook.md)
+Sun Feb 03 2019|[My story of quitting WhatsApp](my-story-of-quitting-whatsapp.md)
 Mon Jun 24 2019|[Why does it take you x number of days to do this?](why-does-it-take-3-days-to-develop-an-api-endpoint.md)
 Thu Oct 3 2019|[Writing Fail-safe Oracle Insert Statements](writing-fail-safe-oracle-insert-statements.md)
 Tue Aug 18 2020|[Reactoring for Readability](refactoring-for-readability.md)

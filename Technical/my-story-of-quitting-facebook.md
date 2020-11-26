@@ -1,6 +1,6 @@
 # My story of quitting Facebook
 
-*Note:* The following piece contains arguments, uncategorized to conform to any particular format. Little coherence is to be expected as of this time when I'm preparing my message about [quitting Whatsapp](http://fossterer.com/category/quit.html) to be sent to my contacts and need to finish this up fast. There might be a revised version later here.
+*Note:* The following piece contains arguments, uncategorized to conform to any particular format. Little coherence is to be expected as of this time when I'm preparing my message about [quitting WhatsApp](my-story-of-quitting-whatsapp.md) to be sent to my contacts and need to finish this up fast. There might be a revised version later here.
 
 ## Why?
 
