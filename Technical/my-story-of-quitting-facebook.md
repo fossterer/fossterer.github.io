@@ -22,10 +22,11 @@ What this amounts to is a lack of control on our own lives. This is the price we
 
 My Facebook account has been silent for many years and it wasn't any effort to click the [Delete my Account](https://www.facebook.com/help/224562897555674?helpref=uf_permalink) (or to be exact, 'schedule for deletion'. Ugh!)
 
-**What this means for other social networking site requests?**
+## What this means for other social networking site requests?
+
 Thanks for asking. With this as a start, I am initiating my deletion of centralized social networking site accounts.
 
-- I wil be [quitting Whatsapp](http://fossterer.com/category/quit.html), another product [now owned by Facebook](https://www.theguardian.com/technology/2019/jan/25/facebook-integrate-instagram-messenger-whatsapp-messaging-platforms) next
+- I wil be [quitting WhatsApp](my-story-of-quitting-whatsapp.md), another product [now owned by Facebook](https://www.theguardian.com/technology/2019/jan/25/facebook-integrate-instagram-messenger-whatsapp-messaging-platforms) next
 - For me to create a new account at any social networking site (per my own definition) hereafter, I need to read and agree to every piece of "Terms and Conditions", prepare my questionnaire to the company behind the service and obtain satisfactory answers before I click "I agree". Think I don't have time for that? You are right (and have your answer)
 - I will initiate exploration of setting up message exchange services that I have complete control over. If you are curious, look at these: [Project Matrix](https://matrix.org/blog/home/) Project Diaspora, [Jitsi](https://jitsi.org/), [Pump.io](http://pump.io/), [Tox](https://tox.chat/index.html), [Riot.im](https://about.riot.im/)
 - I will be working on my email service usage
