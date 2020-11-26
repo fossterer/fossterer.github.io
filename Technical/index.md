@@ -6,6 +6,7 @@ Wed Nov 16 2016|[Using Custom SSL certificates with Java Keystore](using-custom-
 Sun Feb 03 2019|[My story of quitting Facebook](my-story-of-quitting-facebook.md)
 Sun Feb 03 2019|[My story of quitting WhatsApp](my-story-of-quitting-whatsapp.md)
 Sun Feb 03 2019|[My story of quitting Instagram](my-story-of-quitting-instagram.md)
+Wed Feb 27 2019|[Pay your shared expenses proactively](pay-your-shared-expenses-proactively.md)
 Mon Jun 24 2019|[Why does it take you x number of days to do this?](why-does-it-take-3-days-to-develop-an-api-endpoint.md)
 Thu Oct 3 2019|[Writing Fail-safe Oracle Insert Statements](writing-fail-safe-oracle-insert-statements.md)
 Tue Aug 18 2020|[Reactoring for Readability](refactoring-for-readability.md)
