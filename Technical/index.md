@@ -3,6 +3,9 @@
 Last Modified Date|Path
 -|-
 Wed Nov 16 2016|[Using Custom SSL certificates with Java Keystore](using-custom-certs-with-java-keystore-in-2016-jdk7.md)
+
+Last Modified Date|Path
+-|-
 Sun Feb 03 2019|[My story of quitting Facebook](my-story-of-quitting-facebook.md)
 Sun Feb 03 2019|[My story of quitting WhatsApp](my-story-of-quitting-whatsapp.md)
 Sun Feb 03 2019|[My story of quitting Instagram](my-story-of-quitting-instagram.md)
@@ -15,6 +18,7 @@ Sun Mar 17 2019|[Being in Houston while Rodeo is in town](being-in-houston-while
 Mon Mar 25 2019|[Let's all have blogs! (Talk suggestion)](lets-all-have-blogs-talk-suggestion.md)
 Wed Apr 3 2019|[Saying Goodbye to Flathub](saying-goodbye-to-flathub.md)
 Tue May 07 2019|[About My "Investigations" (in this blog and in general)](about-my-investigations-in-this-blog-and-in-general.md)
+Sun Jun 2 2019|[Setting up SSL certificate using Let's Encrypt for Nextcloud instance](setting-up-letsencrypt-ssl-for-nextcloud.md)
 Sun Jun 02 2019|[Contributing to Open-Source Android App for Nextcloud Deck](contributing-to-open-source-android-app-for-nextcloud-deck.md)
 Mon Jun 24 2019|[Why does it take you x number of days to do this?](why-does-it-take-3-days-to-develop-an-api-endpoint.md)
 Mon Jul 15 2019|[Thoughts on Cryptocurrencies](thoughts-on-cryptocurrencies.md)
@@ -22,9 +26,11 @@ Wed Jul 31 2019|[Kickstart your side project pursuit today in a RESTful API way 
 Tue Aug 06 2019|[Git? Github? How do I start contributing to open source projects? (Talk Suggestion)](intro-to-git-and-contributing-to-open-source.md )
 Sun Aug 18 2019|[Plan for building appropriate (old) versions of dependencies](plan-for-building-appropriate-old-versions-of-dependencies.md)
 Thu Oct 03 2019|[Writing Fail-safe Oracle Insert Statements](writing-fail-safe-oracle-insert-statements.md)
+
+Last Modified Date|Path
+-|-
 Fri Mar 20 2020|[Skip-Bo Rules](skip-bo-rules.md)
 Fri Mar 20 2020|[Things to do when you are bored](things-to-do-when-you-are-bored.md)
-Sun Jun 2 2019|[Setting up SSL certificate using Let's Encrypt for Nextcloud instance](setting-up-letsencrypt-ssl-for-nextcloud.md)
 Tue Aug 18 2020|[Refactoring for Readability](refactoring-for-readability.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect service response](writing-focussed-unit-tests-angular.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect button click](writing-unit-tests-for-ui-events-angular.md)
