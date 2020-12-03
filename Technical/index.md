@@ -2,6 +2,8 @@
 
 Last Modified Date|Path
 -|-
+Thu Dec 03 2020|[Advent of code 2020 - Day 2 (Part 1)](advent-of-code-2020-day-2-part-1.md)
+Thu Dec 03 2020|[Renaming files without leaving shell](renaming-files-without-leaving-shell.md)
 Wed Dec 02 2020|[Advent of code 2020 - Day 1 (Part 2)](advent-of-code-2020-day-1-part-2.md)
 Wed Dec 02 2020|[Advent of code 2020 - Day 1 (Part 1)](advent-of-code-2020-day-1-part-1.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect service response](writing-focussed-unit-tests-angular.md)

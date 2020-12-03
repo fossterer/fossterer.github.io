@@ -1,4 +1,4 @@
-# Advent of code 2020 - Day 1
+# Advent of code 2020 - Day 1 (Part 1)
 
 [Day - 1 of the series](https://twitter.com/SVRSN_Shashank/status/1334265716921528323) - The challenge is a *2-sum problem* that goes like this:
 

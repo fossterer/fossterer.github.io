@@ -1,4 +1,4 @@
-# Advent of code 2020 - Day 1
+# Advent of code 2020 - Day 1 (Part 2)
 
 [Day - 1 of the series](https://twitter.com/SVRSN_Shashank/status/1334265716921528323) - The challenge is a variation on *3-sum problem* that goes like this:
 
@@ -82,6 +82,30 @@ execute()
 
 However, by the time of writing this blog post, I already assimilated into me that *position-less* maps/sets are to be preferred to an array. So I start thinking of maintaining 2 datastructures instead.
 
+Here's the time taken in 3 consecutive runs:
+
+````bash
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ time python3 part-2-attempt-1.py 
+Result: 85555470
+
+real    0m0.089s
+user    0m0.081s
+sys     0m0.008s
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ time python3 part-2-attempt-1.py 
+Result: 85555470
+
+real    0m0.091s
+user    0m0.087s
+sys     0m0.004s
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ time python3 part-2-attempt-1.py 
+Result: 85555470
+
+real    0m0.093s
+user    0m0.089s
+sys     0m0.004s
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ 
+````
+
 ## Attempt 2: Time Complexity O(n)
 
 We can't do with *sets* of course and need *hashMap* since after finding the target sum (2020 - value), we need to locate which 2 items led to that sum *originally*
@@ -153,6 +177,32 @@ lines = open('input-1.txt', 'r')
 
 execute()
 ````
+
+Here's the time taken in 3 consecutive runs:
+
+````bash
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ time python3 part-2-attempt-2.py 
+Result: 85555470
+
+real    0m0.027s
+user    0m0.027s
+sys     0m0.000s
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ time python3 part-2-attempt-2.py 
+Result: 85555470
+
+real    0m0.028s
+user    0m0.020s
+sys     0m0.009s
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ time python3 part-2-attempt-2.py 
+Result: 85555470
+
+real    0m0.047s
+user    0m0.038s
+sys     0m0.009s
+shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/advent-of-code/2020/day-1$ 
+````
+
+This renewed approach reduced runtime by a factor of 3 (and often only by a factor of 2; still better)
 
 ## Attempt 3: Reduced Space Usage; Time Complexity O(n)
 
