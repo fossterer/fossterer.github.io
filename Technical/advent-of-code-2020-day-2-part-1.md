@@ -79,7 +79,9 @@ shashank@shashank-HP-ENVY-Notebook:~/Projects/personal/programming-challenges/ad
 
 ## Attempt 2: Time Complexity O(n*m)
 
-I give another try using *regex* here:
+As I came back to give this another try using *regex* here, I realize this is not a *pattern* problem. We don't where this character occurs and the minimum and maximum occurrences are not sequential to say something as `q{1-3}`. That *q* indeed can occur at minimum `1` time and at maximum `3` times but those don't have to be in sequence.
+
+Any attempt to form such a *pattern* would have to make use of possibly multiple *backreferences* for each position. This is not a candidate for *regex* as initially thought but the [Part 2](advent-of-code-2020-day-2-part-2.md) is indeed. Look at the [Attempt 2](advent-of-code-2020-day-2-part-2.md#attempt-2-time-complexity-on) there!
 
 ## Lessons Learned
 
