@@ -34,3 +34,4 @@ Fri Mar 20 2020|[Things to do when you are bored](things-to-do-when-you-are-bore
 Tue Aug 18 2020|[Refactoring for Readability](refactoring-for-readability.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect service response](writing-focussed-unit-tests-angular.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect button click](writing-unit-tests-for-ui-events-angular.md)
+Wed Dec 02 2020|[Advent of code 2020 - Day 1](advent-of-code-2020-day-1.md)
