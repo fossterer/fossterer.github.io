@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Wed Dec 02 2020|[Advent of code 2020 - Day 1 (Part 2)](advent-of-code-2020-day-1-part-2.md)
 Wed Dec 02 2020|[Advent of code 2020 - Day 1 (Part 1)](advent-of-code-2020-day-1-part-1.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect service response](writing-focussed-unit-tests-angular.md)
 Tue Nov 10 2020|[Writing unit Tests in Angular to detect button click](writing-unit-tests-for-ui-events-angular.md)
