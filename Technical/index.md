@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Tue Dec 08 2020|[Advent of code 2020 - Day 4 (Part 2)](advent-of-code-2020-day-4-part-2.md)
 Mon Dec 07 2020|[It was my editor/new line problem](it-was-my-editor-newline-problem.md)
 Sun Dec 06 2020|[Advent of code 2020 - Day 4 (Part 1)](advent-of-code-2020-day-4-part-1.md)
 Fri Dec 04 2020|[Advent of code 2020 - Day 3 (Part 2)](advent-of-code-2020-day-3-part-2.md)
