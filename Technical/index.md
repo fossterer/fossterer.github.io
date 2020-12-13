@@ -2,6 +2,8 @@
 
 Last Modified Date|Path
 -|-
+Sat Dec 12 2020|[Advent of code 2020 - Day 7 (Part 2)](advent-of-code-2020-day-7-part-2.md)
+Sat Dec 12 2020|[Advent of code 2020 - Day 7 (Part 1)](advent-of-code-2020-day-7-part-1.md)
 Wed Dec 09 2020|[Advent of code 2020 - Day 6 (Part 2)](advent-of-code-2020-day-6-part-2.md)
 Wed Dec 09 2020|[Advent of code 2020 - Day 6 (Part 1)](advent-of-code-2020-day-6-part-1.md)
 Wed Dec 09 2020|[Advent of code 2020 - Day 5 (Part 2)](advent-of-code-2020-day-5-part-2.md)
