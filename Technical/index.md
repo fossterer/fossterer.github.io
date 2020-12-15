@@ -2,6 +2,9 @@
 
 Last Modified Date|Path
 -|-
+Tue Dec 15 2020|[Advent of code 2020 - Day 8 (Part 2)](advent-of-code-2020-day-8-part-2.md)
+Tue Dec 15 2020|[Advent of code 2020 - Day 8 (Part 1)](advent-of-code-2020-day-8-part-1.md)
+Mon Dec 13 2020|[Invariants in computer science (and Loop Invariants)](loop-invariants.md)
 Sat Dec 12 2020|[Advent of code 2020 - Day 7 (Part 2)](advent-of-code-2020-day-7-part-2.md)
 Sat Dec 12 2020|[Advent of code 2020 - Day 7 (Part 1)](advent-of-code-2020-day-7-part-1.md)
 Wed Dec 09 2020|[Advent of code 2020 - Day 6 (Part 2)](advent-of-code-2020-day-6-part-2.md)
