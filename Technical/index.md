@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Wed Dec 23 2020|[Setting up Matrix Server for Community Learning Project (Part 2)](setting-up-matrix-server-for-community-learning-part-2.md)
 Sat Dec 19 2020|[Setting up Matrix Server for Community Learning Project (Part 1)](setting-up-matrix-server-for-community-learning-part-1.md)
 Tue Dec 15 2020|[Advent of code 2020 - Day 8 (Part 2)](advent-of-code-2020-day-8-part-2.md)
 Tue Dec 15 2020|[Advent of code 2020 - Day 8 (Part 1)](advent-of-code-2020-day-8-part-1.md)
