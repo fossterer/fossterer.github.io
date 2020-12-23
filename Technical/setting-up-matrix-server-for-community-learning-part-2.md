@@ -33,5 +33,6 @@ To hit all the goals stated above, I will be
 
 - creating the intended Invite-Only/Public community on the [hosted](https://matrix.org/blog/2018/05/29/matrix-org-homeserver-privacy-policy-and-terms-of-use-being-enforced-today) and open matrix.org homeserver and
 - [donating](https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation#and-finally) my planned budget directly to that project for the greater good of [advancing decentralization standards](https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors)
+- [contributing](https://github.com/matrix-org/synapse/pull/8987/files) to the codebase and spec in crucial server administration and management areas
 
 For help with server provisioning and user provisioning, you can always send me a [Direct Message](https://twitter.com/SVRSN_Shashank) on Twitter or [Open an Issue](https://github.com/fossterer/fossterer.github.io/issues) on Github.
