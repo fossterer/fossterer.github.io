@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Sat Jan 02 2021|[Hosting Services Series: Securing UI and API Layers (Part-3)](hosting-services-series-part-3.md)
 Fri Jan 01 2021|[Hosting Services Series: Laying out architecture (Part-2)](hosting-services-series-part-2.md)
 Thu Dec 31 2020|[Hosting Services Series: Choosing an Authentication/Authorization approach for my services (Part-1)](hosting-services-series-part-1.md)
 Wed Dec 23 2020|[Setting up Matrix Server for Community Learning Project (Part 3)](setting-up-matrix-server-for-community-learning-part-3.md)
