@@ -2,8 +2,12 @@
 
 Last Modified Date|Path
 -|-
+Sun Jan 03 2021|[Our Digital Rights Series: Why Not Buy Apple Devices (Part-1)](our-digital-rights-series-part-1.md)
 Sat Jan 02 2021|[Hosting Services Series: Securing UI and API Layers (Part-3)](hosting-services-series-part-3.md)
 Fri Jan 01 2021|[Hosting Services Series: Laying out architecture (Part-2)](hosting-services-series-part-2.md)
+
+Last Modified Date|Path
+-|-
 Thu Dec 31 2020|[Hosting Services Series: Choosing an Authentication/Authorization approach for my services (Part-1)](hosting-services-series-part-1.md)
 Wed Dec 23 2020|[Setting up Matrix Server for Community Learning Project (Part 3)](setting-up-matrix-server-for-community-learning-part-3.md)
 Wed Dec 23 2020|[Setting up Matrix Server for Community Learning Project (Part 2)](setting-up-matrix-server-for-community-learning-part-2.md)

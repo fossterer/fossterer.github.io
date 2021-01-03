@@ -1,0 +1,5 @@
+# Our Digital Rights Series: Why Not Buy Apple Devices (Part-1)
+
+"The choice here is not between OCSP and users vetting every single program they run themselves, or having an insecure device. The real choice is between what Apple does with OCSP, and users being able to choose another company or organization to rely on when they lose trust in Apple. We do this all the time in our lives, like when we switch to a different car mechanic after having a bad experience, or a different doctor when something about our situation has changed. We don't have to get rid of our car -- or our body -- in order to make those choices, and there's no reason we need to do it with our software-running devices. Until Apple changes the fundamental dynamic and allows third-party "free as in freedom" security software on macOS as a full citizen, an OCSP system even with privacy improvements will be fundamentally about subjugation and not security."
+
+-- as read from <https://www.fsf.org/news/the-problems-with-apple-arent-just-outages-they-are-injustices>
