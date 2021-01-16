@@ -2,6 +2,8 @@
 
 Last Modified Date|Path
 -|-
+Fri Jan 15 2021|[Why Learning/Teaching Programming Takes Effort?](why-learning-teaching-programming-takes-effort.md)
+Sun Jan 10 2021|[Our Digital Rights Series: It has been two years since... (Part-2)](our-digital-rights-series-part-2.md)
 Sun Jan 03 2021|[Our Digital Rights Series: Why Not Buy Apple Devices (Part-1)](our-digital-rights-series-part-1.md)
 Sat Jan 02 2021|[Hosting Services Series: Securing UI and API Layers (Part-3)](hosting-services-series-part-3.md)
 Fri Jan 01 2021|[Hosting Services Series: Laying out architecture (Part-2)](hosting-services-series-part-2.md)
