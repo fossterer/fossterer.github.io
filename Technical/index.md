@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Sun Jan 24 2021|[Learning Tamil Series (Part 1)](learning-tamil-series-part-1.md)
 Mon Jan 18 2021|[Programming Community Learning Resources (Part 4): Worldwide Slack channels](programming-community-learning-resources-series-part-4.md)
 Fri Jan 15 2021|[Why Learning/Teaching Programming Takes Effort?](why-learning-teaching-programming-takes-effort.md)
 Sun Jan 10 2021|[Our Digital Rights Series: It has been two years since... (Part-2)](our-digital-rights-series-part-2.md)
