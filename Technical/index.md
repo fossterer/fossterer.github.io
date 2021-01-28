@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Wed Jan 28 2021|[Learning Tamil Series (Part 3)](learning-tamil-series-part-3.md)
 Mon Jan 26 2021|[Learning Tamil Series (Part 2)](learning-tamil-series-part-2.md)
 Sun Jan 24 2021|[Learning Tamil Series (Part 1)](learning-tamil-series-part-1.md)
 Mon Jan 18 2021|[Programming Community Learning Resources (Part 4): Worldwide Slack channels](programming-community-learning-resources-series-part-4.md)
