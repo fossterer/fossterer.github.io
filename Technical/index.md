@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Mon Feb 01 2021|[Web Development Series (Part 1)](web-development-series-part-1.md)
 Wed Jan 28 2021|[Learning Tamil Series (Part 3)](learning-tamil-series-part-3.md)
 Mon Jan 26 2021|[Learning Tamil Series (Part 2)](learning-tamil-series-part-2.md)
 Sun Jan 24 2021|[Learning Tamil Series (Part 1)](learning-tamil-series-part-1.md)
