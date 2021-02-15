@@ -2,7 +2,7 @@
 
 Hi Python learner,
 
-The symbol # indicates the start of a comment.
+The symbol # indicates the start of a comment. Comments do nothing indeed and are ignored by the system. Why do we write them then?
 
 You know, programs are not regular English with all their (, ; { and etc. symbols spread all over.
 
