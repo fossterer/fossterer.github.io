@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Sun Feb 28 2021|[Reading Financial Statements - Terminology](reading-financial-statements--terminology.md)
 Mon Feb 15 2021|[Welcome Email to _On Ramp to Python_ teaching sessions](teaching-programming-welcome-email.md)
 Sun Feb 14 2021|[Encouraging Comments in Programming](encouraging-commenting-in-python-programming.md)
 Sun Feb 14 2021|[Learning Tamil Series (Part 5)](learning-tamil-series-part-5.md)
