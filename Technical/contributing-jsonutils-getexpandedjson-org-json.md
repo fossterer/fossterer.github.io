@@ -9,3 +9,5 @@ To split(_expand_) it into a `List` of JSONObjects where each is in its simplest
 ![JSONUtils.getExpandedJSON()](../images/jsonutils-getexapndedjson/object-to-list.svg)
 
 Note that non-array elements get copied as-is
+
+Reference Implementation: [Pull Request 585](https://github.com/stleary/JSON-java/pull/585)

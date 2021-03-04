@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Thu Mar 04 2021|[Google CodeJam 2020 - Qualification Round - Problem 1 - Vestigium (Attempt 1)](google-codejam-2020-1-vestigium-attempt-1.md)
 Sun Feb 28 2021|[Reading Financial Statements - Terminology](reading-financial-statements--terminology.md)
 Mon Feb 15 2021|[Welcome Email to _On Ramp to Python_ teaching sessions](teaching-programming-welcome-email.md)
 Sun Feb 14 2021|[Encouraging Comments in Programming](encouraging-commenting-in-python-programming.md)
