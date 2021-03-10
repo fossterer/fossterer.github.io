@@ -2,6 +2,9 @@
 
 Last Modified Date|Path
 -|-
+Wed Mar 10 2021|[Learning Tamil Series (Part 6)](learning-tamil-series-part-6.md)
+Sun Mar 07 2021|[Bookmark - BaseCamp's ShapeUp Method](https://basecamp.com/shapeup/0.3-chapter-01)</br>[Archive.org link](https://web.archive.org/web/*/https://basecamp.com/shapeup/0.3-chapter-01)
+Sun Mar 07 2021|[Bookmark - James Altuher's "Skip The Line"](https://www.linkedin.com/pulse/you-cant-do-james-altucher-1c?trk=eml-email_series_follow_newsletter_01-hero-1-title_link&midToken=AQHHnNdRhKp0Nw&fromEmail=fromEmail&ut=0mMGdFqvqyLVE1)</br> [Archive.org link](https://web.archive.org/web/20210307172933/https://www.linkedin.com/pulse/you-cant-do-james-altucher-1c?trk=eml-email_series_follow_newsletter_01-hero-1-title_link&midToken=AQHHnNdRhKp0Nw&fromEmail=fromEmail&ut=0mMGdFqvqyLVE1)
 Thu Mar 04 2021|[Google CodeJam 2020 - Qualification Round - Problem 1 - Vestigium (Attempt 1)](google-codejam-2020-1-vestigium-attempt-1.md)
 Sun Feb 28 2021|[Reading Financial Statements - Terminology](reading-financial-statements--terminology.md)
 Mon Feb 15 2021|[Welcome Email to _On Ramp to Python_ teaching sessions](teaching-programming-welcome-email.md)

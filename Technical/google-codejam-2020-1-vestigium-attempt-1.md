@@ -8,7 +8,7 @@ The elements in such a _main diagonal_ may be either completely distinct from 1 
 
 By the end of this attempt, we arrive at no. of repeated rows
 
-````python3
+````python
 # Read rows and sum them
 ## If the sum doesn't add up to n(n+1)/2, call it a repeated row
 ### n^2 visits
