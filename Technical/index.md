@@ -2,6 +2,7 @@
 
 Last Modified Date|Path
 -|-
+Sat Mar 27 2021|[Learning Tamil Series (Part 7)](learning-tamil-series-part-7.md)
 Sat Mar 20 2021|[Questions To Ask Your Financial Advisor](questions-to-ask-your-financial-advisor.md)<br/>[Archive.org link](https://web.archive.org/web/20210320021346/https://www.tdameritrade.com/regulation-best-interest-and-form-crs.page)
 Sat Mar 20 2021|[Bookmark - Be surrounded by people better than you](https://www.linkedin.com/posts/robertherjavec_thursdaythoughts-activity-6778359605064937473-qlk1/)<br/>[Archive.org link](https://web.archive.org/web/20210320193847/https://www.linkedin.com/posts/robertherjavec_thursdaythoughts-activity-6778359605064937473-qlk1)
 Sun Mar 14 2021|[Bookmark - What Amazon Alexa is promised to be and what it likely couldn't be/wouldn't be](https://onezero.medium.com/i-broke-amazons-api-to-make-alexa-start-a-conversation-you-d-never-want-to-have-419f636a7596)<br/>[Archive.org link](https://web.archive.org/web/20210311213739/https://onezero.medium.com/i-broke-amazons-api-to-make-alexa-start-a-conversation-you-d-never-want-to-have-419f636a7596)
