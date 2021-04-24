@@ -1,4 +1,4 @@
-# Pay Your Shared Expenses Proactively
+# Pay Your Shared Expenses Proactively (Financials Series Part - 1)
 
 Have you been using [Splitwise][1] ([Here][2]'s the download link) or a similar expense-sharing app for letting your friends pay for your expenses and settle later? I hear you. We always pay our debts
 

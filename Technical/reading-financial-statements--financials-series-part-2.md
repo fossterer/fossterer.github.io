@@ -1,4 +1,4 @@
-# Reading Financial Statements - Terminology
+# Reading Financial Statements - Terminology (Financials Series Part - 2)
 
 ## Revenues
 
