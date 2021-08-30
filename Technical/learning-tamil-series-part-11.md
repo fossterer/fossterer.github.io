@@ -1,37 +1,28 @@
 # Learning Tamil Series (Part 11)
 
-**Tamil -** Netru engaluku corona voochi kedachachu<br/>
-**English -** Yesterday we received Corona vaccine
+**Tamil -** Yennaku nedu update vanduchu<br/>
+**English -** I got an update today
 
-**Tamil -** voochi (Thaduppusi)<br/>
-**English -** Injection (Vaccine)
+**Tamil -** Yennoda kaipachiku update vandathu<br/>
+**English -** My cell phone got an update
 
-**Tamil -** elunthein<br/>
-**English -** stood up (after falling down)
+**Tamil -** Nama irandupaerum (naangaL iruvarum) ore kaipachithan payanpaduthuroom<br/>
+**English -** We both use same cell phone
 
-**Tamil -** mulichan<br/>
-**English -** woke up (from sleep)
+**Tamil -** Irandupaerum<br/>
+**English -** both
 
-**Tamil -** Naan idhai ninaivil vaithu koluvaan<br/>
-**English -** I will remember this
+**Tamil -** randupaerum<br/>
+**English -** Two people
 
-**Tamil -** Mundhuna vaaram naan eppavam pola eludhavillai nanba<br/>
-**English -** Last week I did not write like I used to, friend
+**Tamil -** Yennaku nalla thukkam varuthu<br/>
+**English -** I am (going to be) getting good sleep
 
-**Tamil -** eppavam pola<br/>
-**English -** Like I used to (a negative sense; past)
+**Tamil -** Viraivil pārppōm<br/>
+**English -** See you soon
 
-**Tamil -** Indru yennaku eluthu naal<br/>
-**English -** This dday is a writing day for me
+**Tamil -** Unnakku voochi vandhadhaa?<br/>
+**English -** Has vaccination come to you?
 
-**Tamil -** Endhu alladhu naalai<br/>
-**English -** Today or tomorrow
-
-**Tamil -** Naan onnidam irundhu mundhuna vaaram padithattai elutha porein<br/>
-**English -** I am going to write what I learned from you previous week
-
-**Tamil -** onnidam irundhu<br/>
-**English -** From you
-
-**Tamil -** Ingey ippom ani maNi muppadhu nimisham aguthu<br/>
-**English -** It is 5:30 here now
+**Tamil -** Innum varalaa<br/>
+**English -** Still did not come
