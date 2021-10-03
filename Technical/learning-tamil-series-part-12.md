@@ -16,3 +16,9 @@ I hope this week goes good too. Same (I wish) with you too!
 
 **Tamil -** Indha kaalai naan seriyaa neramdhaaney mulichein
 **English -** I woke up at right time indeed
+
+**Tamil -** Enthil meethi vantha ennaku anupungal, Nanba 
+**English -** If you end up with more, then send it to me, friend
+
+**Tamil -** Nanbargaludan makizhilnthu saptungal
+**English -** Enjoy eating it with friends
