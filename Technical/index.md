@@ -2,6 +2,9 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sun Oct 31 2021|[Using Credit Card Balance Transfer (Financials Series Part - 5)](using-credit-card-balance-transfer--financials-series-part-5.md)|
+|Fri Oct 22 2021|[Planning for Time Shifts (Travel Planning)](planning-for-time-shifts-travel-planning.md)|
+|Sun Oct 10 2021|[Learning Tamil Series (Part 13)](learning-tamil-series-part-13.md)|
 |Sun Oct 03 2021|[Veg Quesadilla Recipe](veg-quesadilla-recipe.md)|
 |Mon Aug 23 2021|[Quotes on Uncertainty](quotes-on-uncertainty.md)|
 |Tue Jul 06 2021|[Learning Tamil Series (Part 12)](learning-tamil-series-part-12.md)|
