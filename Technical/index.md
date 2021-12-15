@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Wed Dec 15 2021|[Welcoming Signal!](welcoming-signal!.md)|
 |Sun Oct 31 2021|[Using Credit Card Balance Transfer (Financials Series Part - 5)](using-credit-card-balance-transfer--financials-series-part-5.md)|
 |Fri Oct 22 2021|[Planning for Time Shifts (Travel Planning)](planning-for-time-shifts-travel-planning.md)|
 |Sun Oct 10 2021|[Learning Tamil Series (Part 13)](learning-tamil-series-part-13.md)|
