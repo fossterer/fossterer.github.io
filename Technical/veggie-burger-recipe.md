@@ -23,7 +23,8 @@
 ![Image of heated buns](../images/veggie-burger-recipe/6-toasted-buns.jpg)
 
 2. Apply 2 of the sauces and lay the cheese slice over the bottom bun. Heat in a microwave for 0.5-1 min.
-    2.1 The longer you heat, the mushier the bun becomes.
+    1. The longer you heat, the mushier the bun becomes.
+    2. Note that I substituted a few sauces with others here!
 ![Image of cheese in packaging](../images/veggie-burger-recipe/3-cheese-packaging.jpg)
 ![Image of bottom buns with sauces](../images/veggie-burger-recipe/7-bottom-buns-with-suaces.jpg)
 ![Image of bottom buns in microwave](../images/veggie-burger-recipe/8-bottom-buns-in-microwave.jpg)
@@ -33,7 +34,7 @@
 ![Image of burgers after heating](../images/veggie-burger-recipe/10-burgers-on-pan-after-heating.jpg)
 
 4. Place the burger on the cheese side. Add onion and tomato slices as well
-    4.1. Optionally drop a spinach leaf or a lettuce piece.
+    1. Optionally drop a spinach leaf or a lettuce piece.
 ![Image of tomato and onion slices](../images/veggie-burger-recipe/4-tomato-and-onion-slices.jpg)
 
 5. Apply the other 2 sauces on the top bun left aside
