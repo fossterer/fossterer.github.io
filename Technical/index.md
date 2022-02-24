@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Wed Feb 23 2022|[Veggie Burger Recipe](veggie-burger-recipe.md)|
 |Wed Dec 15 2021|[Welcoming Signal!](welcoming-signal!.md)|
 |Sun Oct 31 2021|[Using Credit Card Balance Transfer (Financials Series Part - 5)](using-credit-card-balance-transfer--financials-series-part-5.md)|
 |Fri Oct 22 2021|[Planning for Time Shifts (Travel Planning)](planning-for-time-shifts-travel-planning.md)|
