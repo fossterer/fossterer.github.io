@@ -2,7 +2,12 @@
 
 |Last Modified Date|Path|
 |--|--|
-|Su Oct 30 2022|[Life of a car series: It's 8 years! And your car just won't start (Part-1)](life-of-a-car-series-part-1.md)|
+|Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
+|Sun Feb 11 2023|[Web Development Series (Part 2)](web-development-series-part-2.md)|
+
+|Last Modified Date|Path|
+|--|--|
+|Sun Oct 30 2022|[Life of a car series: It's 8 years! And your car just won't start (Part-1)](life-of-a-car-series-part-1.md)|
 |Wed Feb 23 2022|[Veggie Burger Recipe](veggie-burger-recipe.md)|
 
 |Last Modified Date|Path|
