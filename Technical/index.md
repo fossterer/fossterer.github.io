@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
 |Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
 |Sun Feb 11 2023|[Web Development Series (Part 2)](web-development-series-part-2.md)|
 
