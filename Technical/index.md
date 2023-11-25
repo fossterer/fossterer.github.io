@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sat Nov 25 2023|[Three things Sat Nov 25 2023 - Today I learned Series (Part 1)](today-i-learned-series-part-1.md)|
 |Mon Nov 06 2023|[The other side of VC Funding - Startups and Enterpreneurship Series (Part 1)](startups-and-enterpreneurship-series-part-1.md)|
 |Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
 |Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
