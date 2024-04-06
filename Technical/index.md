@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sat Apr 06 2024|[Desert Safari Dubai Copthorne Hotel](desert-safari-dubai-copthorne-hotel.md)|
 |Fri Apr 05 2024|[Blogging from phone](blogging-from-phone.md)|
 
 |Last Modified Date|Path|
