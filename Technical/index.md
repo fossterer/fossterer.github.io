@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sun Apr 28 2024|[Selling shares as a manner of protesting (Financials Series Part - 6)]|
 |Sat Apr 06 2024|[Desert Safari Dubai Copthorne Hotel](desert-safari-dubai-copthorne-hotel.md)|
 |Fri Apr 05 2024|[Blogging from phone](blogging-from-phone.md)|
 
