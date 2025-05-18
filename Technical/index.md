@@ -2,6 +2,10 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sun May 18 2025|[Bookmark - “If buying isn’t owning, piracy isn’t stealing” (08 Dec 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)<br/>[Archive.org link](https://web.archive.org/web/20250512103422/https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)|
+
+|Last Modified Date|Path|
+|--|--|
 |Wed Sep 18 2024|[Dependency Management in Python (Part 1)](dependency-management-in-python-part-1.md)|
 |Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
 |Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
