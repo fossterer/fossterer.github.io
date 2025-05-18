@@ -2,6 +2,13 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Wed Sep 18 2024|[Dependency Management in Python (Part 1)](dependency-management-in-python-part-1.md)|
+|Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
+|Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
+|Sun Feb 11 2023|[Web Development Series (Part 2)](web-development-series-part-2.md)|
+
+|Last Modified Date|Path|
+|--|--|
 |Mon Nov 06 2023|[The other side of VC Funding - Startups and Enterpreneurship Series (Part 1)](startups-and-enterpreneurship-series-part-1.md)|
 |Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
 |Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
