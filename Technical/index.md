@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sun May 18 2025|[Bookmark - Magical Software Sucks](https://dodov.dev/blog/magical-software-sucks)<br/>[Archive.org link](https://web.archive.org/web/20241207154258/https://dodov.dev/blog/magical-software-sucks)|
 |Sun May 18 2025|[Bookmark - “If buying isn’t owning, piracy isn’t stealing” (08 Dec 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)<br/>[Archive.org link](https://web.archive.org/web/20250512103422/https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)|
 
 |Last Modified Date|Path|
