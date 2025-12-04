@@ -2,7 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
-|Thu Dec 04 2025|Praise to simple URLs](praise-to-simple-urls.md)|
+|Thu Dec 04 2025|[Praise to simple URLs](praise-to-simple-urls.md)|
 
 |Last Modified Date|Path|
 |--|--|
