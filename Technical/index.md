@@ -2,18 +2,19 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Thu Dec 04 2025|[Praise to simple URLs](praise-to-simple-urls.md)|
 |Sun May 18 2025|[Bookmark - Magical Software Sucks](https://dodov.dev/blog/magical-software-sucks)<br/>[Archive.org link](https://web.archive.org/web/20241207154258/https://dodov.dev/blog/magical-software-sucks)|
 |Sun May 18 2025|[Bookmark - “If buying isn’t owning, piracy isn’t stealing” (08 Dec 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)<br/>[Archive.org link](https://web.archive.org/web/20250512103422/https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)|
 
 |Last Modified Date|Path|
 |--|--|
 |Wed Sep 18 2024|[Dependency Management in Python (Part 1)](dependency-management-in-python-part-1.md)|
-|Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
-|Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
-|Sun Feb 11 2023|[Web Development Series (Part 2)](web-development-series-part-2.md)|
+|Sat Apr 06 2024|[Desert Safari Dubai Copthorne Hotel](desert-safari-dubai-copthorne-hotel.md)|
+|Fri Apr 05 2024|[Blogging from phone](blogging-from-phone.md)|
 
 |Last Modified Date|Path|
 |--|--|
+|Sat Nov 25 2023|[Three things Sat Nov 25 2023 - Today I learned Series (Part 1)](today-i-learned-series-part-1.md)|
 |Mon Nov 06 2023|[The other side of VC Funding - Startups and Enterpreneurship Series (Part 1)](startups-and-enterpreneurship-series-part-1.md)|
 |Wed Oct 18 2023|[Using closures to make a dynamic To-do list in Javascript](web-development-series-part-4.md)|
 |Fri Oct 06 2023|[Closures in JavaScript, Java and Python](web-development-series-part-3.md)|
