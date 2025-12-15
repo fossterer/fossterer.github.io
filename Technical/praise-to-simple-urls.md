@@ -1,3 +1,5 @@
+# Praise to simple URLs
+
 It can't get simpler than this!
 
 We're shopping for microwave oven and ended up deciding on a particular brand for its familiarity and closeness to a physical store+service center.
