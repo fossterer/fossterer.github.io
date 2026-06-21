@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sun Jun 21 2026|[Hence Proved Series (Part 1) - Simple Electric Motor](hence-proved-series--simple-electric-motor.md)|
 |Thu Jan 01 2026|[Broccoli Paneer Rice Bake recipe](broccoli-paneer-rice-bake-recipe.md)|
 
 |Last Modified Date|Path|
