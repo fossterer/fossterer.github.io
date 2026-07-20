@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Mon Jul 20 2026|[Day 2 in UK - London](day-2-in-london--uk.md)|
 |Sun Jul 19 2026|[Day 1 in UK - London](day-1-in-uk--london.md)|
 |Sun Jun 21 2026|[Hence Proved Series (Part 1) - Simple Electric Motor](hence-proved-series--simple-electric-motor.md)|
 |Thu Jan 01 2026|[Broccoli Paneer Rice Bake recipe](broccoli-paneer-rice-bake-recipe.md)|
