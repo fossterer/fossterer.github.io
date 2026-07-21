@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Tue Jul 21 2026|[Hosting Services Series - Part 4](hosting-services-series-part-4.md)|
 |Mon Jul 20 2026|[Day 2 in UK - London](day-2-in-london--uk.md)|
 |Sun Jul 19 2026|[Day 1 in UK - London](day-1-in-uk--london.md)|
 |Sun Jun 21 2026|[Hence Proved Series (Part 1) - Simple Electric Motor](hence-proved-series--simple-electric-motor.md)|
