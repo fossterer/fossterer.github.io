@@ -1,11 +1,14 @@
 # Web Development Series - Part 5 - Making sense of JavaScript ecosystem in 2026
 
-* Web Applications are run in browsers. Every browser rendered HTML, evaliated JavaScript on their own terms until standard bodies like W3C, EcmaScript came up
+* Web Applications are run in browsers. Every browser rendered HTML, evaluated JavaScript on their own terms until standard bodies like W3C, EcmaScript came up
 * All along, web developers and companies built their own tools for their website/web application development workflows across various browsers
 * **Babel**: Your JavaScript web application uses latest syntax standardized by EcmaScript Committee in 2010 but 60% (not all) of your users use IE11 released long ago. How can your code work? That's what Babel does. Utilizing CoreJS etc. it puts in polyfills so that when loaded in an old browser, an equivalent set of code replaces latest syntax you used during development
-* **Webpack**: Webpack is a bundler. If your JavaScript code is split across multiple files and you want to import functions in one file in another, you used to use Webpack to manage the final output when this gets sent to a browser that has no idea what your "imports" mean. Also, importing CSS files, images wtc. in JavaScript (.is) files became possible because of the presence of Webpack in the toolchain. Later with EcmaScript modules, the imports became standardized but browsers before this didn't natively support it. Now you have *esbuild*
+* **Webpack**: Webpack is a bundler. If your JavaScript code is split across multiple files and you want to import functions in one file in another, you used to use Webpack to manage the final output when this gets sent to a browser that has no idea what your "imports" mean. Also, importing CSS files, images etc. in JavaScript (.is) files became possible because of the presence of Webpack in the toolchain. Later with EcmaScript modules, the imports became standardized but browsers before this didn't natively support it. Now you have *esbuild*
 * **typescript** is good for development but browsers don't understand it. Just as *compilation* is a process that converts high-level language code to machine level, *transpilation* is the process to convert one high level language code into another. So we added a layer of work that transpiles Typescript to JavaScript 
 * **esbuild** is faster than [*webpack*](https://jackburgess.dev/blog/babel-no-more). esbuild leverages *tsx* (typescript execute) for just in time conversion of typescript to JavaScript during development and *tsc* (typescript compiler) to ultimately convert all Typescript (.ts) files to JavaScript (.js) files
+* **tsconfig.json** is for use by *tsc*
 * *esbuild* is applicable only since ES6 (Ecmascript Standard 6). For just the pieces that are not supported by esbuild, you would bring in Webpack
-* Neither Babel nor  esbuild
+* Neither webpack nor esbuild come with tsx/tsc. *tsx* is installed as its own package while *tsc* is installed by the package *typescript*
+* esbuild can replace webpack (the bundler) and babel (the transpiler) for many projects
 * **vite** doesn't even use tsx/tsc and instead relies on Oxide Toolchain (oxc). See [this](https://vite.dev/guide/features#transpile-only)
+* **CommonJS** is identified by .cjs and **ModuleJS** by .mjs 
