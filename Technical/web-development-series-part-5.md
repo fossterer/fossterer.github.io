@@ -1,0 +1,16 @@
+# Web Development Series - Part 5 - Making sense of JavaScript ecosystem in 2026
+
+* Web Applications are run in browsers. Every browser rendered HTML, evaluated JavaScript on their own terms until standard bodies like W3C for browser APIs and EcmaScript for the JavaScript language came up
+* All along, web developers and companies built their own tools for their website/web application development workflows across various browsers
+* **Babel**: Let's say your JavaScript web application uses latest syntax standardized by EcmaScript Committee in 2010 but 60% (for example) of your users use IE11 released long ago. How can your code work? That's what Babel does. When loaded in an old browser, an equivalent set of old syntax replaces latest syntax you used during development, utilizing CoreJS etc. puts in polyfills for missing APIs and so on
+* **Webpack**: Webpack is a bundler. If your JavaScript code is split across multiple files and you want to import functions in one file in another, you used to use Webpack to manage the final output when this gets sent to a browser that has no idea what your "imports" mean. Also, importing CSS files, images etc. in JavaScript (.js) files became possible because of the presence of Webpack in the toolchain. Later with EcmaScript modules, the imports became standardized but browsers before this didn't natively support it. Now you have *esbuild*
+* **typescript** is good for development but browsers don't understand it. Just as *compilation* is a process that converts high-level language code to machine level, *transpilation* is the process to convert one high level language code into another. So we added a layer of work that transpiles Typescript to JavaScript 
+* **esbuild** is faster than [*webpack*](https://jackburgess.dev/blog/babel-no-more). esbuild leverages *tsx* (typescript execute) for just in time conversion of typescript to JavaScript during development and *tsc* (typescript compiler) to ultimately convert all Typescript (.ts) files to JavaScript (.js) files
+* **tsconfig.json** is for use by *tsc*
+* Neither webpack nor esbuild come with tsx/tsc. *tsx* is installed as its own package while *tsc* is installed by the package *typescript*
+* Note that esbuild itself has its own TS/TSX parser/transform capabilities. It needs neither typescript nor tsx installed for it to work
+* For production builds, Vite/esbuild/Rollup pipeline does not generally require tsc to produce JS output. Typically, tsc is for type-checking (optional but common), while esbuild handles transpilation/transform speed
+* esbuild can replace webpack (the bundler) and babel (the transpiler) for many projects
+* **vite** doesn't even use tsx/tsc and instead relies on Oxide Toolchain (oxc). See [this](https://vite.dev/guide/features#transpile-only)
+* Vite uses *esbuild* during both development workflows and production builds for transpilation. It uses *Rollup* instead of *webpack* for bundling.
+* Starting with [Vite 8](https://vite.dev/guide/migration#rolldown), Rolldown and Oxc based tools are used instead of esbuild and Rollup
