@@ -11,4 +11,5 @@
 * Neither webpack nor esbuild come with tsx/tsc. *tsx* is installed as its own package while *tsc* is installed by the package *typescript*
 * esbuild can replace webpack (the bundler) and babel (the transpiler) for many projects
 * **vite** doesn't even use tsx/tsc and instead relies on Oxide Toolchain (oxc). See [this](https://vite.dev/guide/features#transpile-only)
-* **CommonJS** is identified by .cjs and **ModuleJS** by .mjs 
+* Vite uses *esbuild* during both development workflows and production builds for transpilation. It uses *Rollup* instead of *webpack* for bundling.
+* Starting with [Vite 8](https://vite.dev/guide/migration#rolldown), Rolldown and Oxc based tools are used instead of esbuild and Rollup
