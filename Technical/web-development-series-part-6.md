@@ -6,4 +6,7 @@
 * Hence the plethora of tools. See [this thread](https://news.ycombinator.com/item?id=28862454)
 * Continuing from the previous day's [post](web-development-series-part-5.md), see [this thread](https://news.ycombinator.com/item?id=28861433) on why you need both 'esbuild' and 'typescript' packages in your toolchain despite one appearing to be already doing the work of the other
 * Now coming to the **Vite**land, *oxlint* and *oxfmt* are the optional equivalents to *eslint* and *prettier* which need to be installed on their own
-* Every tool we named here and in the previous day's [post](web-development-series-part-5.md), see [this thread](https://news.ycombinator.com/item?id=28861433) can be configured through their own configuration files. That's why we see - tsconfig.json, .eslintrc, .prettierrc and so on all splattered in the root directory
+* Every tool we named here and in the previous day's [post](web-development-series-part-5.md) can be configured through their own configuration files. That's why we see - tsconfig.json, .eslintrc, .prettierrc and so on all splattered in the root directory
+* While many/all of these tools are optional, the one top-level tool where you trigger them from, along with managing dependencies is, in 2026, NPM. This is configured as *package.json* at the root directory. Treat this as equivalent to *pom.xml* in the Java land
+* In *package.json*, you mention dependencies as well as *scripts* which are shortcuts to invoke all our optional tools
+* Alternatives such as PNPM exist
