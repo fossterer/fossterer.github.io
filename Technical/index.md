@@ -2,7 +2,8 @@
 
 |Last Modified Date|Path|
 |--|--|
-|Fri Jul 24 2026[Web Development Series - Part 5 - Making sense of JavaScript ecosystem in 2026](web-development-series-part-5.md)||
+|Sat Jul 25 2026|[Web Development Series - Part 6 - Why is there so much tooling in the JavaScript space?](web-development-series-part-6.md)|
+|Fri Jul 24 2026|[Web Development Series - Part 5 - Making sense of JavaScript ecosystem in 2026](web-development-series-part-5.md)|
 |Thu Jul 23 2026|[Day 5 in UK - Edinburgh](day-5-in-uk--edinburgh.md)|
 |Thu Jul 23 2026|[Hosting Services Series - Part 5 - Google Keep/Notes alternative](hosting-services-series-part-5.md)|
 |Wed Jul 22 2026|[Day 4 in UK - London](day-4-in-uk--london.md)|
