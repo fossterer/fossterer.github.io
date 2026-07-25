@@ -1,0 +1,7 @@
+# Web Development Series - Part 6 - Why is there so much tooling in the JavaScript space?
+
+* For a Java/Python/any backend application, the target environment is a controlled single JRE/Python Runtime/something similar
+* For JavaScript application, it's your user's browser! So which version of Chrome/Firefox/Edge/Internet Explore/Mobile browser/what else should your code work on? Also, you don't have control on what settings the user made to their browser. Do you?
+* That's for runtime. Now to the compile-time and development time. All your users' browsers care about is JavaScript version they support. But you want to write Typescript or latest JS only, once. So the end compiler/transpiler wouldn't do type enforcement, validation etc. like `javac` etc. This *linting* is treated as its own step separate from *compilation* unlike in Java etc.
+* Hence the plethora of tools. See [this thread](https://news.ycombinator.com/item?id=28862454)
+* Continuing from the previous day's [post](web-development-series-part-5.md), see [this thread](https://news.ycombinator.com/item?id=28861433) on why you need both 'esbuild' and 'typescript' packages in your toolchain despite one appearing to be already doing the work of the other
