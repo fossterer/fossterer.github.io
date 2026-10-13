@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Tue Oct 13 2026|[Image to PDF Conversion in *n* steps](image-to-pdf-ubuntu.md)|
 |Sun Aug 16 2026|[Bookmark - Gobi Fried rice for 2 in 1.5 hrs](https://hebbarskitchen.com/gobi-fried-rice-recipe/)|
 |Fri Aug 07 2026|[Hosting Services Series - Part 6 - Google Calendar and Contacts alternative](hosting-series-part-6.md)|
 |Tue Jul 28 2026|[Book Reading Speed](book-reading-speed.md)|
