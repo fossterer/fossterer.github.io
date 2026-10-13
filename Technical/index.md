@@ -28,6 +28,7 @@
 |--|--|
 |Wed Sep 18 2024|[Dependency Management in Python (Part 1)](dependency-management-in-python-part-1.md)|
 |Sat Apr 06 2024|[Desert Safari Dubai Copthorne Hotel](desert-safari-dubai-copthorne-hotel.md)|
+|Sat Apr 06 2024|[What will I write about?](what-will-i-write-about.md)|
 |Fri Apr 05 2024|[Blogging from phone](blogging-from-phone.md)|
 
 |Last Modified Date|Path|
