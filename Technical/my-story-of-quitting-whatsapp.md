@@ -1,6 +1,6 @@
 # My story of quitting WhatsApp
 
-*Note:* The following piece contains arguments, uncategorized to conform to any particular format. Little coherence is to be expected as of this time when I'm also writing personalized messages about this decision to be sent to my contacts and need to finish this up fast. There might be a revised version later here.
+*Update 1 - Dec 29 2025:* I’ve reinstalled WhatsApp, mainly because some people who had [moved to Signal](welcoming-signal!.md) with my help later lost it when they changed phones, and there is no simple way to drag whole WhatsApp groups over to Signal just for my sake. Rejoining is a practical compromise so I can participate where it truly matters, not a reversal of my concerns about data, attention, or the peace of mind I got from stepping away from countless pointless groups.
 
 ## Why?
 

@@ -2,8 +2,34 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Tue Oct 13 2026|[Image to PDF Conversion in *n* steps](image-to-pdf-ubuntu.md)|
+|Sun Aug 16 2026|[Bookmark - Gobi Fried rice for 2 in 1.5 hrs](https://hebbarskitchen.com/gobi-fried-rice-recipe/)|
+|Fri Aug 07 2026|[Hosting Services Series - Part 6 - Google Calendar and Contacts alternative](hosting-series-part-6.md)|
+|Tue Jul 28 2026|[Book Reading Speed](book-reading-speed.md)|
+|Sat Jul 25 2026|[Web Development Series - Part 6 - Why is there so much tooling in the JavaScript space?](web-development-series-part-6.md)|
+|Fri Jul 24 2026|[Web Development Series - Part 5 - Making sense of JavaScript ecosystem in 2026](web-development-series-part-5.md)|
+|Thu Jul 23 2026|[Day 5 in UK - Edinburgh](day-5-in-uk--edinburgh.md)|
+|Thu Jul 23 2026|[Hosting Services Series - Part 5 - Google Keep/Notes alternative](hosting-services-series-part-5.md)|
+|Wed Jul 22 2026|[Day 4 in UK - London](day-4-in-uk--london.md)|
+|Tue Jul 21 2026|[Day 3 in UK - London](day-3-in-uk--london.md)|
+|Tue Jul 21 2026|[Hosting Services Series - Part 4](hosting-services-series-part-4.md)|
+|Mon Jul 20 2026|[Day 2 in UK - London](day-2-in-london--uk.md)|
+|Sun Jul 19 2026|[Day 1 in UK - London](day-1-in-uk--london.md)|
+|Sun Jun 21 2026|[Hence Proved Series (Part 1) - Simple Electric Motor](hence-proved-series--simple-electric-motor.md)|
+|Thu Jan 01 2026|[Broccoli Paneer Rice Bake recipe](broccoli-paneer-rice-bake-recipe.md)|
+
+|Last Modified Date|Path|
+|--|--|
+|Thu Dec 04 2025|[Praise to simple URLs](praise-to-simple-urls.md)|
+|Sun May 18 2025|[Bookmark - Magical Software Sucks](https://dodov.dev/blog/magical-software-sucks)<br/>[Archive.org link](https://web.archive.org/web/20241207154258/https://dodov.dev/blog/magical-software-sucks)|
+|Sun May 18 2025|[Bookmark - “If buying isn’t owning, piracy isn’t stealing” (08 Dec 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)<br/>[Archive.org link](https://web.archive.org/web/20250512103422/https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)|
+
+|Last Modified Date|Path|
+|--|--|
+|Wed Sep 18 2024|[Dependency Management in Python (Part 1)](dependency-management-in-python-part-1.md)|
 |Sun Apr 28 2024|[Selling shares as a manner of protesting (Financials Series Part - 6)](selling-shares-as-a-manner-of-protesting--financials-series-part-6.md)|
 |Sat Apr 06 2024|[Desert Safari Dubai Copthorne Hotel](desert-safari-dubai-copthorne-hotel.md)|
+|Sat Apr 06 2024|[What will I write about?](what-will-i-write-about.md)|
 |Fri Apr 05 2024|[Blogging from phone](blogging-from-phone.md)|
 
 |Last Modified Date|Path|
