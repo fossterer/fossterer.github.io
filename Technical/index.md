@@ -5,6 +5,7 @@
 |Sun Nov 01 2026|[How to get out of Google Services - Part 1 - Gmail, Google Drive etc.](how-to-get-out-of-google-services-part-1.md)|
 |Tue Oct 13 2026|[Image to PDF Conversion in *n* steps](image-to-pdf-ubuntu.md)|
 |Sun Aug 16 2026|[Bookmark - Gobi Fried rice for 2 in 1.5 hrs](https://hebbarskitchen.com/gobi-fried-rice-recipe/)|
+|Mon Aug 10 2026|[Book Reading Speed - Part 2](book-reading-speed2.md)|
 |Fri Aug 07 2026|[Hosting Services Series - Part 6 - Google Calendar and Contacts alternative](hosting-series-part-6.md)|
 |Tue Jul 28 2026|[Book Reading Speed](book-reading-speed.md)|
 |Sat Jul 25 2026|[Web Development Series - Part 6 - Why is there so much tooling in the JavaScript space?](web-development-series-part-6.md)|
