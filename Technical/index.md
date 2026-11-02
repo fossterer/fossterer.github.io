@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Sun Nov 01 2026|[How to get out of Google Services - Part 1 - Gmail, Google Drive etc.](how-to-get-out-of-google-services-part-1.md)|
 |Tue Oct 13 2026|[Image to PDF Conversion in *n* steps](image-to-pdf-ubuntu.md)|
 |Sun Aug 16 2026|[Bookmark - Gobi Fried rice for 2 in 1.5 hrs](https://hebbarskitchen.com/gobi-fried-rice-recipe/)|
 |Fri Aug 07 2026|[Hosting Services Series - Part 6 - Google Calendar and Contacts alternative](hosting-series-part-6.md)|
