@@ -1,0 +1,8 @@
+# Ideas from Nov 10 2026
+
+1. First immediate docker stack to setup - DIUN as seen in every post from [LinuxServer](https://www.linuxserver.io/) or Renovate or just a self-written script with an optional web UI for admin work
+2. 3. Even before all of that - an image with 2 pieces - Me before going to a 2 week vacation - two docker compose stacks and 1 nont fully working; Me coming from vacation - 5 docker compose stacks and 1 not fully working - that would be Authentik and also my 'Family Tree' project
+
+1. Microsaas reddit post - Restart my bank scraper project
+2. many more services to self-host using Docker: 1. paperless-ngx 2. Authentik
+4. 2 websites sserved from RaspberryPi - includes LLC
