@@ -6,7 +6,7 @@
 2. Once the file was saved onto disk, deleted all contacts in the website - On my phone, all contacts disappeared in some time
 3. With '[Radicale](https://radicale.org/v3.html)' up from Docker, opened port ':5232' from web browser  - I have Tailscale setup so I could access with the published IP address of RaspberryPi
 4. Deleted all default Collections and chose 'Upload an Address Book or Calendar' from the bottom right - Uploaded the single VCF as it is
-5. On my Android phone, I had [Davx5](https://radicale.org/v3.html#supported-clients) installed - Already configured it to the same [Tailscale](https://tailscale.com/download) offered IP address + port - Soon after choosing Refresh, all contacts reappeared on my phone. In addition to the 'Local' and '<My GMail account', a 3rd - 'Davx5 Address Book' appeared now.
+5. On my Android phone, I had [Davx5](https://radicale.org/v3.html#supported-clients) installed - Already configured it to the same [Tailscale](https://tailscale.com/download) offered IP address + port - Soon after choosing Refresh, all contacts reappeared on my phone. In addition to the _This Device_ and _My GMail account_, a 3rd - 'Davx5 Address Book' appeared now.
 
 ## Update from Tue Nov 10 2026 - Calendar (CalDAV)
 
