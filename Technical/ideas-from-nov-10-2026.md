@@ -1,7 +1,7 @@
 # Ideas from Nov 10 2026
 
 1. First immediate docker stack to setup - DIUN as seen in every post from [LinuxServer](https://www.linuxserver.io/) or Renovate or just a self-written script with an optional web UI for admin work. See [for inspiration](https://www.bigiron.cc/guides/after-watchtower-a-container-update-routine-with-diun-and-pinned-tags) and [for advice on logging](https://www.bigiron.cc/guides/upgrade-journals-and-version-pinning-for-breaking-change-apps)
-2. Draw on a paper, scan and post on blog - an image with 2 pieces - Me before going to a 2 week vacation - two docker compose stacks and 1 nont fully working; Me coming from vacation - 5 docker compose stacks and 1 not fully working - that would be Authentik and also my 'Family Tree' project
+2. Draw on a paper, scan and post on blog - an image with 2 pieces - Me before going to a 2 week vacation - two docker compose stacks and 1 not fully working; Me coming from vacation - 5 docker compose stacks and 1 not fully working - that would be Authentik and also my 'Family Tree' project
 3. [Microsaas reddit post](https://www.reddit.com/r/microsaas/s/U9lncsnZiM) - Restart my bank scraper project
 4. many more services to self-host using Docker: 1. paperless-ngx 2. Authentik (paired with Ente Auth for 2FA). Anything else that  actually help my day to day, now powered by Docker?
 5. 2 websites served from RaspberryPi - one for LLC and one for my wife
