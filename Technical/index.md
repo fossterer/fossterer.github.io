@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Tue Nov 10 2026|[Ideas from Nov 10 2026](ideas-from-nov-10-2026.md)
 |Tue Nov 10 2026|[Hosting Services Series - Part 7 - Peer-to-Peer Sharing password vault without central server](hosting-services-series-part-7.md)|
 |Sun Nov 08 2026|[Signal app and others blocked in Qatar](signal-app-and-others-blocked-in-qatar.md)|
 |Sun Nov 01 2026|[How to get out of Google Services - Part 1 - Gmail, Google Drive etc.](how-to-get-out-of-google-services-part-1.md)|
