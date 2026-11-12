@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Thu Nov 12 2026|[Hosting Services Series - Part 9 - Architecture Diagram](hosting-services-series-part-9.md)|
 |Thu Nov 12 2026|[Bookmark - Simple Networking paper from Google measuring latency](https://cloud.google.com/blog/products/networking/using-netperf-and-ping-to-measure-network-latency)
 |Thu Nov 12 2026|[How to get out of Google Services - Part 2 - Still with same Google account for 3 reasons](how-to-get-out-of-google-services-part-2.md)|
 |Thu Nov 12 2026|[Hosting Services Series - Part 8 - Adding second public service to existing CloudflareD](hosting-services-series-part-8.md)
