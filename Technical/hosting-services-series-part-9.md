@@ -1,6 +1,6 @@
 # Hosting Services Series: Architecture Diagram (Part-9)
 
-Remember [Hosting Services Series: Laying out architecture (Part-2)](hosting-services-series-part-2.md)| from Jan 01 2021? :D
+Remember [Hosting Services Series: Laying out architecture (Part-2)](hosting-services-series-part-2.md) from Jan 01 2021? :D
 
 The plan is being realized. Follow other posts in this series where I identified specific services being replaced.
 
