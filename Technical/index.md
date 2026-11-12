@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Thu Nov 12 2026|[Hosting Services Series - Part 8 - Adding second public service to existing CloudflareD](hosting-services-series-part-8.md)
 |Tue Nov 10 2026|[Ideas from Nov 10 2026](ideas-from-nov-10-2026.md)
 |Tue Nov 10 2026|[Hosting Services Series - Part 7 - Peer-to-Peer Sharing password vault without central server](hosting-services-series-part-7.md)|
 |Sun Nov 08 2026|[Signal app and others blocked in Qatar](signal-app-and-others-blocked-in-qatar.md)|
