@@ -3,7 +3,7 @@
 It was convenient, once upon a time, to put everything on Google.
 Because, why not? It's free, right? Right?
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FcoMsDIkgwcgAAAAC%2Fpadme.gif&f=1&nofb=1&ipt=1e2b12974a163198aafc9ea06b7b025355aa0fe4ede3236783cf24f274e665b7&ipo=images
+<img alt="Right? Right? meme" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FcoMsDIkgwcgAAAAC%2Fpadme.gif&f=1&nofb=1&ipt=1e2b12974a163198aafc9ea06b7b025355aa0fe4ede3236783cf24f274e665b7&ipo=images" />
 
 ## GMail
 

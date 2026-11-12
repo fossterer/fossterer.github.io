@@ -2,6 +2,7 @@
 
 |Last Modified Date|Path|
 |--|--|
+|Thu Nov 12 2026|[How to get out of Google Services - Part 2 - Still with same Google account for 3 reasons](how-to-get-out-of-google-services-part-2.md)|
 |Thu Nov 12 2026|[Hosting Services Series - Part 8 - Adding second public service to existing CloudflareD](hosting-services-series-part-8.md)
 |Tue Nov 10 2026|[Ideas from Nov 10 2026](ideas-from-nov-10-2026.md)
 |Tue Nov 10 2026|[Hosting Services Series - Part 7 - Peer-to-Peer Sharing password vault without central server](hosting-services-series-part-7.md)|
